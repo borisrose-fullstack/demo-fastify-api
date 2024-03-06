@@ -1,0 +1,16 @@
+
+@host=http://localhost:3000
+
+
+###
+GET {{host}}/truc
+
+GET {{host}}
+###
+GET {{host}}/stories
+
+###
+GET {{host}}/api/products
+
+###
+GET {{host}}/api/sellers
